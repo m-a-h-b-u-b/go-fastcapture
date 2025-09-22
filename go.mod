@@ -1,3 +1,3 @@
-module github.com/m-a-h-b-u-b/high-speed-packet-capture
+module github.com/m-a-h-b-u-b/go-fastcapture
 
 go 1.21
